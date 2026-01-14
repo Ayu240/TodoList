@@ -39,7 +39,7 @@ const page = () => {
   return (
     <>
       <div className='bg-gray-100 h-screen'>
-        <h1 className='bg-black text-white p-5 text-5xl font-bold text-center'>Ayush's Todo List</h1>
+        <h1 className='bg-black text-white p-5 text-5xl font-bold text-center'>Shuhham's Todo List</h1>
 
         <From mainTask ={mainTask} setMainTask={setMainTask} />
 
